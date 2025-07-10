@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu_usuario/tu_repos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu_usuario/tu_repos/issues"
+  },
+  "homepage": "https://github.com/tu_usuario/tu_repos#readme",
   "description": ""
 }
